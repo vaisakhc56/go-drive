@@ -5,8 +5,8 @@ var authConfig = {
 	"theme": "material", // material  classic 
     "client_id": "202264815644.apps.googleusercontent.com", // Google Client ID
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // Google Client Secret
-	"refresh_token": "", // Refresh token    "root": "root" // Root directory
-	"root": "root" // Root directory
+	"refresh_token": "1//0g3q0sguUelNTCgYIARAAGBASNwF-L9Ir8tiUHXjCXqo586xySOmy0YcO1z8WvVOsuORU0vcxXjStvXhTBV9t2-UNyEvaPVd42OY", // Refresh token    "root": "root" // Root directory
+	"root": "0AITVP56KLmIIUk9PVA" // Root directory
 };
 
 var gd;
